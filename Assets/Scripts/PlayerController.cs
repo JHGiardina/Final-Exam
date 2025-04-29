@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
-    public int health = 100;
+    public float health = 100f;
 
     public float attackTimer = 3f;
 
